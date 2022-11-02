@@ -1,0 +1,12 @@
+.text1{
+    background:black;
+    border-radius: 2px;
+    border: 3% solid red
+    height: 92px;
+    weight:3px
+    color: white
+    text-align:center;
+    padding: 23px;
+    margin:left: 281px;
+    box: sizing 23px;
+}
